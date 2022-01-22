@@ -36,8 +36,8 @@
     "starter": "https://github.com/strapi/strapi-starter-next-ecommerce"
   },
   "engines": {
-    "node": ">=10.16.0 <=14.x.x",
-    "npm": "^6.0.0"
+    "node": "13.1.0",
+    "npm": "6.12.1"
   },
   "license": "MIT"
 }
