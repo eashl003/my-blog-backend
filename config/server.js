@@ -1,3 +1,3 @@
 module.exports = ({ env }) => ({
-  url: env("DATABASE_URL"),
+  url: env("HEROKU_POSTGRESQL_AQUA_URL"),
 });
